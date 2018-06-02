@@ -8,7 +8,7 @@ import MHKetQua from './components/MHKetQua'
 export default class BanPhim extends React.Component{
     
     state = {
-        toanTu:'',
+        toanTu:'2',
         ketQua:0
     }
 
